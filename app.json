@@ -1,6 +1,6 @@
 {
-  "name": "gifted-md@v5.0.0",
-  "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make whatsapp experience better",
+  "name": "DON-md@v5.0.0",
+  "description": "I am DON Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make whatsapp experience better",
   "website": "https://api.giftedtechnexus.co.ke",
   "repository": "https://github.com/mouricedevs/gifted",
   "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
@@ -21,7 +21,7 @@
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": true,
-      "value": "263719929859"
+      "value": "263775614627"
     },
     "AUTO_STICKER": {
       "description": "Put true/false to enable auto conversion of videos and photos as stickers",
@@ -31,7 +31,7 @@
     "SESSION_ID": {
       "description": "Put your SESSION_ID.  Must start with Gifted~",
       "required": false,
-      "value": "Gifted~EYt6vrfC"
+      "value": "Gifted~BbC77uzg"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
@@ -41,7 +41,7 @@
      "WELCOME": {
       "description": "Put true or false to enableand disable group welcoming and goodbye messages",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_READ_STATUS": {
       "description": "Put true if you want bot to view status",
