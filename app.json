@@ -31,12 +31,12 @@
     "SESSION_ID": {
       "description": "Put your SESSION_ID.  Must start with Gifted~",
       "required": false,
-      "value": "Gifted~BbC77uzg"
+      "value": "Gifted~rjojQZrY#a6tv0ue1onolYYdZ4VHyH-h3z9Yo6ONdphcVka8a5c4"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "©️T.TECH🪀"
     },
      "WELCOME": {
       "description": "Put true or false to enableand disable group welcoming and goodbye messages",
